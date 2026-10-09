@@ -3,12 +3,12 @@
     <channel>
         <title>照书堂</title>
         <item>
-            <title>1.1.8</title>
-            <pubDate>Fri, 09 Oct 2026 08:30:44 +0000</pubDate>
-            <sparkle:version>77</sparkle:version>
-            <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
+            <title>1.1.9</title>
+            <pubDate>Fri, 09 Oct 2026 09:08:03 +0000</pubDate>
+            <sparkle:version>78</sparkle:version>
+            <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/fromhaojing/xiaohushuwu-updates/main/Luminest-1.1.8.dmg" length="9258510" type="application/octet-stream" sparkle:edSignature="maCH3zU2xPXkBAXOWoX5M8R1pW0SzE35oWd4V4+tL5qMYol1eR0xvH2N+HgfYR6L+zPL874Hmffv6a63nUA8Bw=="/>
+            <enclosure url="https://raw.githubusercontent.com/fromhaojing/xiaohushuwu-updates/main/Luminest-1.1.9.dmg" length="9260330" type="application/octet-stream" sparkle:edSignature="kW+4k45QwWy7cTEsPZkWdV/2UmkTIBTTiDuuVW8IrsyyVMWAlwwsjheIRb9b4AMzRiUYLq8BiP23iJiyWTqgDA=="/>
         </item>
     </channel>
 </rss>
